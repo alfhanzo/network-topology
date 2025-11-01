@@ -47,9 +47,4 @@ It represents two geographically separated local networks — **Anatolian Side (
 - Cisco Packet Tracer 8.x  
 - Basic networking devices: Routers (1941), Switches (2960), PCs, Laptops, Server, and Printer
 
----
-
-## Author
-**Atahan**  
-💻 Networking & IT Enthusiast  
 
