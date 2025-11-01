@@ -1,0 +1,14 @@
+# Cisco Packet Tracer autosave files
+*.pkt.autosave
+
+# Backup or temporary files
+*.bak
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code settings
+.vscode/
